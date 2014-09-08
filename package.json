@@ -1,0 +1,26 @@
+{
+  "name": "es6-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^5.11.1",
+    "exorcist": "^0.1.6",
+    "gulp": "^3.8.8",
+    "gulp-header": "^1.0.5",
+    "gulp-remove-lines": "^0.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sourcemaps": "^1.1.4",
+    "gulp-traceur": "^0.13.0",
+    "mold-source-map": "^0.3.0",
+    "path": "^0.4.9",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-map": "^1.0.1",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}
